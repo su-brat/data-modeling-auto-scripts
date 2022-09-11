@@ -1,0 +1,12 @@
+<publication>
+    <p>
+        This is inside para
+        <?pub _newline?>
+        that we have
+    </p>
+    <table>
+        This is how
+        <?pub _newline?>
+        works in table
+    </table>
+</publication>
